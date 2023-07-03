@@ -2,8 +2,8 @@
 0000ff
 0000ff3c
 
-  --global-theme-color: #B509AC;
-  --global-hover-color: #B509AC;
+  --global-theme-color: #0000ff;
+  --global-hover-color: #0000ff3c;
   
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
