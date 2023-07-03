@@ -10,8 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Google AI Research Lab</p>
-    <p>RMZ Infinity Tower E, Old Madras Road</p>
-    <p>Bangalore 560 016 India</p>
     <p>Email: rishabhtiwari@google.com</p>
 
 
