@@ -10,7 +10,7 @@
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #0000ff; 
+  --global-theme-color: #0000ff;
   --global-hover-color: #0000ff3c;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #1C1C1D;
@@ -110,7 +110,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1000px;
 }
 
 .profile img {
@@ -242,7 +242,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 22%;
   }
   .profile .address p {
     display: block;
