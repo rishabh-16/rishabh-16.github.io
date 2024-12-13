@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Google AI Research Lab</p>
-    <p>rishabhtiwari@google.com</p>
+    <p>Berkeley AI Research Lab</p>
+    <p>rishabhtiwari at berkeley dot edu</p>
 
 
 news: false  # includes a list of news items
