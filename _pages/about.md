@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Google Research India</a>
+subtitle: <a href='#'>University of California, Berkeley</a>
 
 profile:
   align: right
