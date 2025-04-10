@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>University of California, Berkeley</a>
+subtitle: <a href='https://www.berkeley.edu/'>University of California, Berkeley</a>
 
 profile:
   align: right
