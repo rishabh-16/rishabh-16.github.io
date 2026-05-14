@@ -1,3 +1,8 @@
+{% if page.url == "/" %}
+    <!-- Redirect to rishabhtiwari.ai -->
+    <script>window.location.replace("https://rishabhtiwari.ai" + window.location.pathname + window.location.search);</script>
+    <meta http-equiv="refresh" content="0; url=https://rishabhtiwari.ai">
+{% endif %}
     <!-- Metadata, OpenGraph and Schema.org -->
     {% include metadata.html %}
 
